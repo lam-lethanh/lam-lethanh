@@ -1,0 +1,20 @@
+:root {
+	--primary-color: #2192ff;
+	--header-height: 7rem;
+	--header-bg: #cfe9f8;
+	--footer-bg: #ccc;
+	--form-bg: #f9f9f9;
+	--text-color: #333;
+	--desc-color: #555; /* Cẩm nang, tin tức, kinh nghiệm */
+	--red-color: #f01212;
+	--border-radius-input: 0.5rem;
+	--border-radius-btn: 1rem;
+	--border-radius-img-item: 1.5rem;
+	--size-page-number-btn: 5rem;
+	--yellow-color: #ffc709;
+	--border-quick-search-input: 0.2rem solid #ffc709;
+	--border-input: 0.1rem solid #e7e7e7;
+	--font: Arial, Helvetica, sans-serif;
+}
+
+/* Sử dụng google icons */
